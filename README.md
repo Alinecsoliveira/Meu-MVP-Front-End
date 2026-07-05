@@ -1,8 +1,5 @@
 
 ---
-
-## 📄 README.md do **Frontend**
-
 # Pokédex Frontend
 
 Interface web desenvolvida em **HTML, CSS e JavaScript puro** para consumir a Pokédex API.  
